@@ -22,3 +22,10 @@ Shows the current state of the working directory and staging area.
 Example:
 ```bash
 git status
+
+### git log --oneline
+Shows commit history in a compact one-line format.
+
+Example:
+```bash
+git log --oneline
