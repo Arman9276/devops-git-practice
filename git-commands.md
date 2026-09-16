@@ -67,3 +67,7 @@ git fetch
 
 # Pull changes from remote
 git pull
+
+## Day 23 GitHub Edit
+
+This line was added directly on GitHub.
