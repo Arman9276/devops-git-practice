@@ -3,3 +3,4 @@
 - User information
 - Profile settings
 - Fixed profile formatting
+## Settings documentation
